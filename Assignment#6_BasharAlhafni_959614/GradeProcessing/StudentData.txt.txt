@@ -1,0 +1,4 @@
+123451,Bashar,Alhafni,90,95,CPSC,UG
+123452,John,Smith,70,85,CPEG,GRAD
+123453,Nancy,Davis,96,70,CPSC,GRAD
+123454,Dina,Jonathan,90,89,CPEG,UG
